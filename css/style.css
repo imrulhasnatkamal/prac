@@ -1,0 +1,35 @@
+.container{
+    background-color: gray;
+    color: white;
+    width: 60%;
+    margin: 0 auto;
+    padding:5px;
+    border:1px solid rgb(84, 87, 87)
+}
+.in{
+    width: 99%;
+    height: 20px;
+    margin-top: 5px;
+}
+
+
+.rad{
+    
+}
+.cont2{
+    width: 60%;
+    margin: 0 auto;
+    color: rgb(24, 97, 255);
+}
+table{
+    border:1px solid rgb(33, 114, 208);
+    width: 99.99%;
+}
+tr,td{
+    border:1px solid rgb(20, 80, 193);
+
+}
+ol{
+    margin: 0;
+    padding: 15px;
+}
